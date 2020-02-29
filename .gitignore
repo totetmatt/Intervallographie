@@ -1,0 +1,8 @@
+env/
+imgs/
+__pycache__
+*.pyc
+*.jpg
+dist/
+build/
+.vscode/
