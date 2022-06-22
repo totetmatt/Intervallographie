@@ -20,5 +20,5 @@ setuptools.setup(
     ],
     python_requires=">=3.6",
     entry_points={"console_scripts": ["itg = intervallographie.__main__:run"]},
-    install_requires=["Pillow==7.0.0", "numpy==1.18.1"],
+    install_requires=["Pillow==7.0.0", "numpy==1.22.0"],
 )
